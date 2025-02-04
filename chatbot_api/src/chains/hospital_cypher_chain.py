@@ -1,6 +1,5 @@
 import os
 
-# from langchain.chains import GraphCypherQAChain
 from langchain.prompts import PromptTemplate
 from langchain_neo4j import Neo4jGraph, GraphCypherQAChain
 # from langchain_openai import ChatOpenAI
